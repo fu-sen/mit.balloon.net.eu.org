@@ -1,5 +1,7 @@
 ## The MIT License
 
+![](screenshot.png)
+
 <https://mit.balloon.net.eu.org/>
 
 How to use: `https://mit.balloon.net.eu.org/#year`
