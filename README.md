@@ -34,4 +34,4 @@ I dared to adopt the free domain [EU.org](https://www.eu.org/), It is designed s
 
 ___
 
-[Keiichi Shiga](https://www.facebook.com/keiichishiga) ([🎈 BALLOON | FU-SEN](https://balloon-en.vercel.app/))
+[🎈 BALLOON | FU-SEN](https://github.com/fu-sen)
