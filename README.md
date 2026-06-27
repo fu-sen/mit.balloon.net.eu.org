@@ -20,7 +20,7 @@ If you're looking at open source, you'll often see it together.
 >
 > THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-I often write simple one-file programs, so even this is difficult to paste in long sentences.\
+I often write simple one-file programs, so even this is difficult to paste in long sentences.
 So The MIT License had a different URL and pasted it in the program comments.\ These have long been published on GitHub Gist.
 
 [GitHub Gist @fu-sen](https://gist.github.com/fu-sen)
